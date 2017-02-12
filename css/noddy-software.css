@@ -1,6 +1,6 @@
 /*!
- * Clean Blog v1.0.0 (http://startbootstrap.com)
- * Copyright 2017 Start Bootstrap
+ * Noddy Software v1.0.0 (http://noddy.io)
+ * Copyright 2017 Noddy Software
  * Licensed under MIT (https://spdx.org/licenses/MIT)
  */
 

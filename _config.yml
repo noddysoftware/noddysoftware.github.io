@@ -8,7 +8,7 @@ baseurl: ""
 url: "http://noddy.io"
 twitter_username: noddysoftware
 github_username: noddysoftware
-#facebook_username: StartBootstrap
+facebook_username: noddysoftware
 email_username: contact@noddy.io
 
 # Google Analytics
