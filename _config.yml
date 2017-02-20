@@ -12,7 +12,6 @@ facebook_username: noddysoftware
 email_username: contact@noddy.io
 
 # Google Analytics
-# To enable google analytics, uncomment below line with a valid Google Tracking ID
 google_tracking_id: UA-92183167-1
 
 # Build settings
@@ -20,6 +19,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
+paginate_path: "blog/page:num"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
