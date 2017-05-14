@@ -271,6 +271,9 @@ footer .list-inline {
   margin: 0;
   padding: 0;
 }
+footer .list-inline > li {
+  padding: 0;
+}
 footer .copyright {
   font-size: 14px;
   text-align: center;

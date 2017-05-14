@@ -3,12 +3,14 @@ title: Noddy Software
 header-img: img/home-bg.jpg
 email: contact@noddy.io
 copyright_name: Noddy Software
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "A software development studio based in Kansas City, Missouri!"
 baseurl: ""
 url: "http://noddy.io"
-twitter_username: noddysoftware
-github_username: noddysoftware
 facebook_username: noddysoftware
+twitter_username: noddysoftware
+youtube_username: noddysoftware
+reddit_username: noddysoftware
+github_username: noddysoftware
 email_username: contact@noddy.io
 
 # Google Analytics
@@ -20,6 +22,6 @@ highlighter: rouge
 permalink: pretty
 paginate: 5
 paginate_path: "blog/page:num"
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less", "node_modules", "Gruntfile.js", "package.json", "README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
